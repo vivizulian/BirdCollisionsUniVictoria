@@ -1,6 +1,7 @@
 # Seasonally frugivorous forest birds and window collision fatalities: novel integration of bird counts improves assessment of species vulnerability to collisions 
 
 
+
 ## Associated publications
 Viviane Zulian, Louise K. Blight, Jon Osborne, Adam C. Smith, Andrea R. Norris, Rebecca Golat, Krista L. De Groot. Seasonally frugivorous forest birds and window collision fatalities: novel integration of bird counts improves assessment of species vulnerability to collisions. *In Review*
 
